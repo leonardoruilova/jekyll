@@ -28,10 +28,10 @@ Le recomendamos visitar el siguiente enlace: http://jekyllrb.com/docs/troublesho
 
 ## Primeros pasos
 
-* Por favor [instale](http://jekyllrb.com/docs/installation/) la gema ruby
+* Por favor [Install](http://jekyllrb.com/docs/installation/) la gema ruby
 * Luego, lea acerca de su [uso](http://jekyllrb.com/docs/usage/) y [configuración](http://jekyllrb.com/docs/configuration/)
-* Puede revisar los web[Sites] ya existentes (https://wiki.github.com/jekyll/jekyll/sites)
-* Es factible que realice un fork and [contribuya](http://jekyllrb.com/docs/contributing/) mediante sus propias modificaciones
+* Puede revisar los [Sites] ya existentes (https://wiki.github.com/jekyll/jekyll/sites)
+* Es factible que realice un fork and [Contribute](http://jekyllrb.com/docs/contributing/) mediante sus propias modificaciones
 * Si tiene dudas, por favor sírvase revisar nuestra comunidad oficial en el foro [Jekyll Talk](https://talk.jekyllrb.com/) o [`#jekyll` en irc.freenode.net](https://botbot.me/freenode/jekyll/)
 
 ## Código de conducta
