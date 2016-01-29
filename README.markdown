@@ -22,17 +22,17 @@ Jekyll es un generador de sitios web estáticos sencillo y concebido para diseñ
 
 Jekyll tiene un comportamiento que obedece a las órdenes que le dá un programador, ni más, ni menos. Jekyll no se comporta intentando superar al usuario mediante suposiciones amplias, ni tampoco exige al usuario complejidad y configuración innecesarias. Explicado en términos simples, Jekyll saca del camino lo que estorba para permitir concentrarse en lo que importa, los contenidos del sitio web.
 
-## Having trouble with OS X El Capitan?
+## ¿Tiene problemas al usar Jekyll en OS X El Capitan?
 
-See: http://jekyllrb.com/docs/troubleshooting/#jekyll-amp-mac-os-x-1011
+Le recomendamos visitar el siguiente enlace: http://jekyllrb.com/docs/troubleshooting/#jekyll-amp-mac-os-x-1011
 
-## Getting Started
+## Primeros pasos
 
-* [Install](http://jekyllrb.com/docs/installation/) the gem
-* Read up about its [Usage](http://jekyllrb.com/docs/usage/) and [Configuration](http://jekyllrb.com/docs/configuration/)
-* Take a gander at some existing [Sites](https://wiki.github.com/jekyll/jekyll/sites)
-* Fork and [Contribute](http://jekyllrb.com/docs/contributing/) your own modifications
-* Have questions? Check out our official forum community [Jekyll Talk](https://talk.jekyllrb.com/) or [`#jekyll` on irc.freenode.net](https://botbot.me/freenode/jekyll/)
+* Por favor [instale](http://jekyllrb.com/docs/installation/) la gema ruby
+* Luego, lea acerca de su [uso](http://jekyllrb.com/docs/usage/) y [configuración](http://jekyllrb.com/docs/configuration/)
+* Puede revisar los [sitios] ya existentes (https://wiki.github.com/jekyll/jekyll/sites)
+* Es factible que realice un fork and [contribuya](http://jekyllrb.com/docs/contributing/) mediante sus propias modificaciones
+* Si tiene dudas, por favor sírvase revisar nuestra comunidad oficial en el foro [Jekyll Talk](https://talk.jekyllrb.com/) o [`#jekyll` en irc.freenode.net](https://botbot.me/freenode/jekyll/)
 
 ## Code of Conduct
 
