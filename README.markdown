@@ -34,11 +34,9 @@ Le recomendamos visitar el siguiente enlace: http://jekyllrb.com/docs/troublesho
 * Es factible que realice un fork and [contribuya](http://jekyllrb.com/docs/contributing/) mediante sus propias modificaciones
 * Si tiene dudas, por favor sírvase revisar nuestra comunidad oficial en el foro [Jekyll Talk](https://talk.jekyllrb.com/) o [`#jekyll` en irc.freenode.net](https://botbot.me/freenode/jekyll/)
 
-## Code of Conduct
+## Código de conducta
 
-In order to have a more open and welcoming community, Jekyll adheres to a
-[code of conduct](CONDUCT.md) adapted from the Ruby on Rails code of
-conduct.
+La comunidad Jekyll se adhiere a un [code of conduct](CONDUCT.md) para conformar un grupo humano más abierto y acogedor  daptado del código de conducta de Rails code of conduct.
 
 Please adhere to this code of conduct in any interactions you have in the
 Jekyll community. It is strictly enforced on all official Jekyll
