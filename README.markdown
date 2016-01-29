@@ -20,7 +20,7 @@ Jekyll es un generador de sitios web estáticos sencillo y concebido para diseñ
 
 ## Filosofía
 
-Jekyll tiene un comportamiento que obedece a las órdenes que le dá un programador, ni más, ni menos. It doesn't try to outsmart users by making bold assumptions, nor does it burden them with needless complexity and configuration. Put simply, Jekyll gets out of your way and allows you to concentrate on what truly matters: your content.
+Jekyll tiene un comportamiento que obedece a las órdenes que le dá un programador, ni más, ni menos. Jekyll no se comporta intentando superar al usuario mediante suposiciones amplias, ni tampoco exige al usuario complejidad y configuración innecesarias. Explicado en términos simples, Jekyll saca del camino lo que estorba para permitir concentrarse en lo que importa, los contenidos del sitio web.
 
 ## Having trouble with OS X El Capitan?
 
