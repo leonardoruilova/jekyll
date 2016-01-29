@@ -14,9 +14,9 @@
 [hakiri]: https://hakiri.io/github/jekyll/jekyll/master
 [travis]: https://travis-ci.org/jekyll/jekyll
 
-Por Tom Preston-Werner, Nick Quaranto, Parker Moore, y muchos otros [destacados colaboradores](https://github.com/jekyll/jekyll/graphs/contributors)!
+Obra de Tom Preston-Werner, Nick Quaranto, Parker Moore, y muchos otros [destacados colaboradores](https://github.com/jekyll/jekyll/graphs/contributors)!
 
-Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. Think of it like a file-based CMS, without all the complexity. Jekyll takes your content, renders Markdown and Liquid templates, and spits out a complete, static website ready to be served by Apache, Nginx or another web server. Jekyll is the engine behind [GitHub Pages](http://pages.github.com), which you can use to host sites right from your GitHub repositories.
+Jekyll es un generador de sitios web estáticos sencillo y concebido para diseñar blogs, lo consideramos adecuado para sitios personales, de organizaciones o de proyectos. Puede imaginar a Jekyll como un sistema de administración de contenidos gestionado con archivos de texto, sin otro tipo de complejidad. Jekyll usa como entrada su contenido, luego lleva a cabo un procesamiento de Markdown y plantillas líquidas para finalmente mostrar como salida un sitio web estático adecuado para servidores web como Apache o Nginx, entre otros. Jekyll consiste en el motor detrás de [GitHub Pages](http://pages.github.com), el cual ud. puede utilizar para alojar sitios precisamente desde sus repositorios GitHub.
 
 ## Philosophy
 
