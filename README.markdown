@@ -42,15 +42,15 @@ Le solicitamos que se sume a nuestro código de conducta en cualquier interacci�
 El código de conducta es seguido estrictamente en todos los repositorios, páginas web y recursos oficiales de Jekyll. 
 Si ud. considera que alguien pasa a llevar nuestro código, por favor deje que uno de los responsables (@parkr, @envygeeks, o @mattr-) sepa y nosotros lo dirigiremos tan pronto como sea posible. 
 
-## Diving In
+## Cómo ahondar en Jekyll
 
-* [Migrate](http://import.jekyllrb.com/docs/home/) from your previous system
-* Learn how the [YAML Front Matter](http://jekyllrb.com/docs/frontmatter/) works
-* Put information on your site with [Variables](http://jekyllrb.com/docs/variables/)
-* Customize the [Permalinks](http://jekyllrb.com/docs/permalinks/) your posts are generated with
-* Use the built-in [Liquid Extensions](http://jekyllrb.com/docs/templates/) to make your life easier
-* Use custom [Plugins](http://jekyllrb.com/docs/plugins/) to generate content specific to your site
+* Puede [Migrate](http://import.jekyllrb.com/docs/home/) desde su sitio web previo
+* También considere aprender como funciona YAML con el enlace [YAML Front Matter](http://jekyllrb.com/docs/frontmatter/) 
+* De uso a [Variables](http://jekyllrb.com/docs/variables/) en su propio sitio
+* Igualmente, le recomendamos que personalice los [Permalinks](http://jekyllrb.com/docs/permalinks/) 
+* Puede dar uso a las [Liquid Extensions](http://jekyllrb.com/docs/templates/) para así tener una mejor rutina de trabajo
+* Es factible que use [Plugins](http://jekyllrb.com/docs/plugins/) para que personalice su sitio
 
-## License
+## Licencia
 
-See [LICENSE](https://github.com/jekyll/jekyll/blob/master/LICENSE).
+Lo remitimos al enlace [LICENSE](https://github.com/jekyll/jekyll/blob/master/LICENSE).
