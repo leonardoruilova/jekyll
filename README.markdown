@@ -36,13 +36,11 @@ Le recomendamos visitar el siguiente enlace: http://jekyllrb.com/docs/troublesho
 
 ## Código de conducta
 
-La comunidad Jekyll se adhiere a un [code of conduct](CONDUCT.md) para conformar un grupo humano más abierto y acogedor  daptado del código de conducta de Rails code of conduct.
+La comunidad Jekyll se adhiere a un [code of conduct](CONDUCT.md) para conformar un grupo humano más abierto y acogedor  daptado del código de conducta de Ruby on Rails.
 
-Please adhere to this code of conduct in any interactions you have in the
-Jekyll community. It is strictly enforced on all official Jekyll
-repositories, websites, and resources. If you encounter someone violating
-these terms, please let a maintainer (@parkr, @envygeeks, or @mattr-) know
-and we will address it as soon as possible.
+Le solicitamos que se sume a nuestro código de conducta en cualquier interacción con los miembros de la comunidad Jekyll. 
+El código de conducta es seguido estrictamente en todos los repositorios, páginas web y recursos oficiales de Jekyll. 
+Si ud. considera que alguien pasa a llevar nuestro código, por favor deje que uno de los responsables (@parkr, @envygeeks, o @mattr-) sepa y nosotros lo dirigiremos tan pronto como sea posible. 
 
 ## Diving In
 
