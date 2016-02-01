@@ -16,7 +16,7 @@
 
 Obra de Tom Preston-Werner, Nick Quaranto, Parker Moore, y muchos otros [destacados colaboradores](https://github.com/jekyll/jekyll/graphs/contributors)!
 
-Jekyll es un generador de sitios web estáticos, fácil de usar, especializado en el conocimiento de blogs y adecuado para sitios de organización, sitios de proyectos o sitios personales, Puede imaginar a Jekyll como un sistema de administración de contenidos gestionado con archivos de texto, sin otro tipo de complejidad. Jekyll usa como entrada su contenido, luego lleva a cabo un procesamiento de Markdown y plantillas líquidas para finalmente mostrar como salida un sitio web estático adecuado para servidores web como Apache o Nginx, entre otros. Jekyll consiste en el motor detrás de [GitHub Pages](http://pages.github.com), el cual ud. puede utilizar para alojar sitios precisamente desde sus repositorios GitHub.
+Jekyll es un generador de sitios web estáticos, fácil de usar, especializado en el conocimiento de blogs y adecuado para sitios de organización, sitios de proyectos o sitios personales, Puede imaginar a Jekyll como un CMS gestionado con archivos de texto, sin otro tipo de complejidad. Jekyll usa como entrada su contenido, luego lleva a cabo un procesamiento de Markdown y plantillas líquidas para finalmente mostrar como salida un sitio web estático adecuado para servidores web como Apache o Nginx, entre otros. Jekyll consiste en el motor detrás de [GitHub Pages](http://pages.github.com), el cual ud. puede utilizar para alojar sitios precisamente desde sus repositorios GitHub.
 
 ## Filosofía
 
@@ -54,3 +54,7 @@ Si ud. considera que alguien pasa a llevar nuestro código, por favor deje que u
 ## Licencia
 
 Lo remitimos al enlace [LICENSE](https://github.com/jekyll/jekyll/blob/master/LICENSE).
+
+## Traducción al Castellano
+
+[Virgilio Leonardo Ruilova](https://matricesrecursivas.wordpress.com/)
