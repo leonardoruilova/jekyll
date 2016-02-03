@@ -16,45 +16,33 @@
 
 Obra de Tom Preston-Werner, Nick Quaranto, Parker Moore, y muchos otros [destacados colaboradores](https://github.com/jekyll/jekyll/graphs/contributors)!
 
-Jekyll es un generador de sitios web estáticos, fácil de usar, especializado en el conocimiento de blogs y adecuado para sitios de organización, sitios de proyectos o sitios personales, Puede imaginar a Jekyll como un CMS gestionado con archivos de texto, sin otro tipo de complejidad. Jekyll usa como entrada su contenido, luego lleva a cabo un procesamiento de Markdown y plantillas líquidas para finalmente mostrar como salida un sitio web estático adecuado para servidores web como Apache o Nginx, entre otros. Jekyll consiste en el motor detrás de [GitHub Pages](http://pages.github.com), el cual ud. puede utilizar para alojar sitios precisamente desde sus repositorios GitHub.
+Jekyll es un generador de sitios web estáticos, fácil de usar, especializado en el conocimiento de blogs y adecuado para sitios de organización, sitios de proyectos o sitios personales. Imagine a Jekyll como un CMS (Sistema de Gestión de Contenidos) basado en archivos de texto, que no presenta dificultades importantes. Jekyll toma el contenido del usuario, lo procesa mediante el lenguaje Markdown, utiliza el sistema de plantillas Liquid y obtiene como resultado un sitio web estático que puede ser empleado de forma inmediata en servidores web como Apache o Nginx, entre muchos otros. Jekyll es el motor detrás de GitHub Pages, que puede usarse para dar alojamiento a sitios web directamente desde los repositorios GitHub del usuario. 
+Filosofía 
+Jekyll se limita solamente a obedecer las órdenes dadas por el usuario, nada más, ni nada menos. Jekyll no intenta engañar al usuario a través de conjeturas audaces, tampoco aumenta el nivel de exigencia innecesariamente, además su configuración no presenta dificultades. Explicado en términos simples, Jekyll saca lo que estorba del camino y le permite concentrarse en lo que verdaderamente importa: sus propios contenidos. 
+¿Tiene problemas con OS X El Capitan? 
+Le recomendamos visitar el siguiente enlace: http://jekyllrb.com/docs/troubleshooting/#jekyll-amp-mac-os-x-1011 
+Primeros pasos 
+Por favor Instale la gema ruby
+Luego, lea acerca de su Uso y Configuración
+Puede revisar los [Sitios] ya existentes (https://wiki.github.com/jekyll/jekyll/sites)
+Realice una bifurcación de este proyecto de software libre y Contribuya con sus propias modificaciones
+Si tiene dudas, por favor sírvase revisar nuestra comunidad oficial en el foro Jekyll Talk o #jekyll en irc.freenode.net 
 
-## Filosofía
+Código de conducta 
 
-Jekyll tiene un comportamiento que obedece a las órdenes que le dá un programador, ni más, ni menos. Jekyll no se comporta intentando superar al usuario mediante suposiciones amplias, ni tampoco exige al usuario complejidad y configuración innecesarias. Explicado en términos simples, Jekyll saca del camino lo que estorba para permitir concentrarse en lo que importa, los contenidos del sitio web.
+La comunidad Jekyll se adhiere a un código de conducta basado en el código de conducta de Ruby on Rails con el fin de conformar un grupo humano más abierto y acogedor. 
+Le solicitamos que se sume a nuestro código de conducta cuando interactúe con los miembros de la comunidad Jekyll. El código de conducta es aplicado rigurosamente en todos los repositorios, páginas web y recursos oficiales de Jekyll. Si ud. considera que alguien no respeta o cumple con nuestro código, por favor informe el problema a uno de los encargados (@parkr, @envygeeks, o @mattr-)  y nosotros solucionaremos el inconveniente lo más pronto posible. 
 
-## ¿Tiene problemas al usar Jekyll en OS X El Capitan?
+Cómo ahondar en Jekyll 
 
-Le recomendamos visitar el siguiente enlace: http://jekyllrb.com/docs/troubleshooting/#jekyll-amp-mac-os-x-1011
+Emigre de su sitio web anterior.
+Aprenda cómo funciona YAML Front Matter 
+Publique información en su propio sitio con Variables.
+Personalice sus posteos generados con Permalinks 
+Use Liquid Extensions integrados para hacer más llevadera su rutina de trabajo
+Utilice Plugins personalizados para generar contenidos específicos en su sitio 
 
-## Primeros pasos
+Licencia 
+Veáse LICENSE.
 
-* Por favor [Install](http://jekyllrb.com/docs/installation/) la gema ruby
-* Luego, lea acerca de su [uso](http://jekyllrb.com/docs/usage/) y [configuración](http://jekyllrb.com/docs/configuration/)
-* Puede revisar los [Sites] ya existentes (https://wiki.github.com/jekyll/jekyll/sites)
-* Es factible que realice un fork and [Contribute](http://jekyllrb.com/docs/contributing/) mediante sus propias modificaciones
-* Si tiene dudas, por favor sírvase revisar nuestra comunidad oficial en el foro [Jekyll Talk](https://talk.jekyllrb.com/) o [`#jekyll` en irc.freenode.net](https://botbot.me/freenode/jekyll/)
 
-## Código de conducta
-
-La comunidad Jekyll se adhiere a un [code of conduct](CONDUCT.md) para conformar un grupo humano más abierto y acogedor  daptado del código de conducta de Ruby on Rails.
-
-Le solicitamos que se sume a nuestro código de conducta en cualquier interacción con los miembros de la comunidad Jekyll. 
-El código de conducta es seguido estrictamente en todos los repositorios, páginas web y recursos oficiales de Jekyll. 
-Si ud. considera que alguien pasa a llevar nuestro código, por favor deje que uno de los responsables (@parkr, @envygeeks, o @mattr-) sepa y nosotros lo dirigiremos tan pronto como sea posible. 
-
-## Cómo ahondar en Jekyll
-
-* Puede [Migrate](http://import.jekyllrb.com/docs/home/) desde su sitio web previo
-* También considere aprender como funciona YAML con el enlace [YAML Front Matter](http://jekyllrb.com/docs/frontmatter/) 
-* De uso a [Variables](http://jekyllrb.com/docs/variables/) en su propio sitio
-* Igualmente, le recomendamos que personalice los [Permalinks](http://jekyllrb.com/docs/permalinks/) 
-* Puede dar uso a las [Liquid Extensions](http://jekyllrb.com/docs/templates/) para así tener una mejor rutina de trabajo
-* Es factible que use [Plugins](http://jekyllrb.com/docs/plugins/) para que personalice su sitio
-
-## Licencia
-
-Lo remitimos al enlace [LICENSE](https://github.com/jekyll/jekyll/blob/master/LICENSE).
-
-## Traducción al Castellano
-
-[Virgilio Leonardo Ruilova](https://matricesrecursivas.wordpress.com/)
