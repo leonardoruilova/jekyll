@@ -19,21 +19,24 @@ Obra de Tom Preston-Werner, Nick Quaranto, Parker Moore, y muchos otros [destaca
 Jekyll es un generador de sitios web estáticos, fácil de usar, especializado en el conocimiento de blogs y adecuado para sitios de organización, sitios de proyectos o sitios personales. Imagine a Jekyll como un CMS (Sistema de Gestión de Contenidos) basado en archivos de texto, que no presenta dificultades importantes. Jekyll toma el contenido del usuario, lo procesa mediante el lenguaje Markdown, utiliza el sistema de plantillas Liquid y obtiene como resultado un sitio web estático que puede ser empleado de forma inmediata en servidores web como Apache o Nginx, entre muchos otros. Jekyll es el motor detrás de GitHub Pages, que puede usarse para dar alojamiento a sitios web directamente desde los repositorios GitHub del usuario. 
 Filosofía 
 Jekyll se limita solamente a obedecer las órdenes dadas por el usuario, nada más, ni nada menos. Jekyll no intenta engañar al usuario a través de conjeturas audaces, tampoco aumenta el nivel de exigencia innecesariamente, además su configuración no presenta dificultades. Explicado en términos simples, Jekyll saca lo que estorba del camino y le permite concentrarse en lo que verdaderamente importa: sus propios contenidos. 
-¿Tiene problemas con OS X El Capitan? 
+
+##¿Tiene problemas con OS X El Capitan? 
 Le recomendamos visitar el siguiente enlace: http://jekyllrb.com/docs/troubleshooting/#jekyll-amp-mac-os-x-1011 
-Primeros pasos 
+
+##Primeros pasos 
+
 Por favor Instale la gema ruby
 Luego, lea acerca de su Uso y Configuración
 Puede revisar los [Sitios] ya existentes (https://wiki.github.com/jekyll/jekyll/sites)
 Realice una bifurcación de este proyecto de software libre y Contribuya con sus propias modificaciones
 Si tiene dudas, por favor sírvase revisar nuestra comunidad oficial en el foro Jekyll Talk o #jekyll en irc.freenode.net 
 
-Código de conducta 
+##Código de conducta 
 
 La comunidad Jekyll se adhiere a un código de conducta basado en el código de conducta de Ruby on Rails con el fin de conformar un grupo humano más abierto y acogedor. 
 Le solicitamos que se sume a nuestro código de conducta cuando interactúe con los miembros de la comunidad Jekyll. El código de conducta es aplicado rigurosamente en todos los repositorios, páginas web y recursos oficiales de Jekyll. Si ud. considera que alguien no respeta o cumple con nuestro código, por favor informe el problema a uno de los encargados (@parkr, @envygeeks, o @mattr-)  y nosotros solucionaremos el inconveniente lo más pronto posible. 
 
-Cómo ahondar en Jekyll 
+##Cómo ahondar en Jekyll 
 
 Emigre de su sitio web anterior.
 Aprenda cómo funciona YAML Front Matter 
