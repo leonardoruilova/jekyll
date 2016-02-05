@@ -27,7 +27,7 @@ Le recomendamos visitar el siguiente enlace: http://jekyllrb.com/docs/troublesho
 
 Por favor Instale la gema ruby
 Luego, lea acerca de su Uso y Configuración
-Puede revisar los [Sitios] ya existentes (https://wiki.github.com/jekyll/jekyll/sites)
+Puede revisar los [Sites] ya existentes (https://wiki.github.com/jekyll/jekyll/sites)
 Realice una bifurcación de este proyecto de software libre y Contribuya con sus propias modificaciones
 Si tiene dudas, por favor sírvase revisar nuestra comunidad oficial en el foro Jekyll Talk o #jekyll en irc.freenode.net 
 
@@ -45,7 +45,9 @@ Personalice sus posteos generados con Permalinks
 Use Liquid Extensions integrados para hacer más llevadera su rutina de trabajo
 Utilice Plugins personalizados para generar contenidos específicos en su sitio 
 
-Licencia 
+## Licencia 
 Veáse LICENSE.
 
+## Traducción
 
+Virgilio Leonardo Ruilova ( https://matricesrecursivas.wordpress.com/ )
