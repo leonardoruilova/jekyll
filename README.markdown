@@ -46,7 +46,7 @@ Use Liquid Extensions integrados para hacer más llevadera su rutina de trabajo
 Utilice Plugins personalizados para generar contenidos específicos en su sitio 
 
 ## Licencia 
-Veáse LICENSE.
+Veáse [LICENSE]: https://github.com/jekyll/jekyll/blob/master/LICENSE
 
 ## Traducción
 
