@@ -51,3 +51,7 @@ Veáse [LICENSE]: ( https://github.com/jekyll/jekyll/blob/master/LICENSE )
 ## Traducción
 
 Liberado a los comunes bajo Creative Commons CC-BY-NC  Por Virgilio Leonardo Ruilova ( https://matricesrecursivas.wordpress.com/ )
+
+## Corrección de estilo
+
+Marcela Reyes
