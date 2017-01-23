@@ -50,4 +50,4 @@ Veáse [LICENSE]: ( https://github.com/jekyll/jekyll/blob/master/LICENSE )
 
 ## Traducción
 
-Virgilio Leonardo Ruilova ( https://matricesrecursivas.wordpress.com/ )
+Liberado a los comunes bajo Creative Commons CC-BY-NC  Por Virgilio Leonardo Ruilova ( https://matricesrecursivas.wordpress.com/ )
